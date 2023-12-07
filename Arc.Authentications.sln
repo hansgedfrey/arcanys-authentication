@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Arc.Auth0", "ARC.Auth0\Arc.Auth0.csproj", "{33E13B21-E21C-4175-965B-4E4AD308BEA2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arc.AzureAD", "Arc.AzureAD\Arc.AzureAD.csproj", "{1FF8558B-D699-4D27-BE6A-1134EDF3160A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{33E13B21-E21C-4175-965B-4E4AD308BEA2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33E13B21-E21C-4175-965B-4E4AD308BEA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33E13B21-E21C-4175-965B-4E4AD308BEA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33E13B21-E21C-4175-965B-4E4AD308BEA2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1FF8558B-D699-4D27-BE6A-1134EDF3160A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FF8558B-D699-4D27-BE6A-1134EDF3160A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FF8558B-D699-4D27-BE6A-1134EDF3160A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FF8558B-D699-4D27-BE6A-1134EDF3160A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2CF7F781-0A9A-4E4A-AC0B-3B56E703BB3B}
+	EndGlobalSection
+EndGlobal
